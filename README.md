@@ -11,7 +11,7 @@ You're asked to download the workshop app at [](), complete the challaneges, and
 
 ### What to submit?
 
-- Add the screenshot to your repository and push it to GitHub.
+- Add a screenshot that shows your completion of all challenges to your repository and push it to your repo on GitHub.
 - Edit this README.md file to include your name, section, and a link to the screenshot image.
 
   - Here's how to link to the screenshot image in your README file.
