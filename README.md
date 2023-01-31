@@ -2,7 +2,8 @@
 
 ## Hands-on/Practical Activity
 
-You're asked to download the workshop app at [](), complete the challaneges, and upload a screenshot showing all challenges are completed.
+You're asked to [download the workshop app](https://github.com/cpit251/git-it/releases/tag/4.1.0)
+-, complete the challaneges, and upload a screenshot showing all challenges are completed.
 
 ### What to do
 - Download [the git workshop app, git-it](https://github.com/cpit251/git-it/releases/tag/4.1.0)
